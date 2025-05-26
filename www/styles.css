@@ -1,0 +1,41 @@
+body, .container-fluid {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+h1, h2, h3, h4, h5, h6, label {
+  color: #ffffff;
+}
+
+input, select, .form-control, .selectize-control {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  border: 1px solid #333;
+}
+
+.dataTables_wrapper {
+  color: #e0e0e0;
+}
+
+.table {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+
+.table th, .table td {
+  border-color: #333;
+}
+
+.plot-container {
+  background-color: #121212;
+}
+
+hr {
+  border-top: 1px solid #444;
+}
+
+.well {
+  background-color: #1e1e1e;
+  border: 1px solid #333;
+  color: #e0e0e0;
+}

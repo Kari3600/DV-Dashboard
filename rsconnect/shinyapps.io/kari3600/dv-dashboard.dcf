@@ -1,0 +1,10 @@
+name: dv-dashboard
+title:
+username: kari3600
+account: kari3600
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14763969
+bundleId: 10343700
+url: https://kari3600.shinyapps.io/dv-dashboard/
+version: 1
